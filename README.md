@@ -30,5 +30,5 @@ Above you will see me (left) and my best friend Pear (right)
 
 📧 : adunphy@nd.edu
 
-in : https://www.linkedin.com/in/avamariadunphy/
+Linkedin : https://www.linkedin.com/in/avamariadunphy/
 
