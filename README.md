@@ -13,6 +13,13 @@ Above you will see me (left) and my best friend Pear (right)
 
 * College: The University of Notre Dame, IN
 
+## Goals ✅
+1. By the end of this semester I hope to be more confident in my coding ability!
+2. By the end of this semester I hope to create a working, creative app.
+
+## Projects 
+* Mainly at the moment I am working on a project looking at different penguin data.
+
 
 ## List of Technical Skills 
 - Python
@@ -22,4 +29,6 @@ Above you will see me (left) and my best friend Pear (right)
 📞 : (540) 326-6882 
 
 📧 : adunphy@nd.edu
+
+in : https://www.linkedin.com/in/avamariadunphy/
 
