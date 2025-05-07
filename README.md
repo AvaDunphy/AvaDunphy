@@ -18,12 +18,18 @@ Above you will see me (left) and my best friend Pear (right)
 2. By the end of this semester I hope to create a working, creative app.
 
 ## Projects 
-* Mainly at the moment I am working on a project looking at different penguin data.
+In this portfolio, you will find three projects that I have been working on throughout the semester. As you move from one project to the next, you will see my coding ability begin to improve with my confidence. Initally, I began to experiment with various coding "clean up" components, which then tied into Name Entity Recognition, and finally a project where I tied the two together in a way. Overall, the projects have exposed me to more technical code that I hope to build on with time! 
+
+### Take a Look! 
+1. [Tidying Up Project!](https://github.com/AvaDunphy/Dunphy-Python-Portfolio/tree/main/Tidy%20Up%20Project) 🧹
+2. [Name Entity Project!](https://github.com/AvaDunphy/Dunphy-Python-Portfolio/tree/main/NERStreamlitApp) 👋
+3. [What's Your Jam?](https://github.com/AvaDunphy/Dunphy-Python-Portfolio/tree/main/StreamlitAppFinal) 🎸
 
 
 ## List of Technical Skills 
 - Python
 - R-Studio
+- Name Entity Recognition
 
 ## Contact Me ☎️
 📞 : (540) 326-6882 
